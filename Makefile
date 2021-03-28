@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-LingTiGameAcc
-PKG_VERSION:=20200726
+PKG_VERSION:=20210328
 PKG_RELEASE:=1
 PKG_MAINTAINER:=eSir Playground <https://github.com/esirplayground/luci-app-LingTiGameAcc>
 
